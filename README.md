@@ -3,7 +3,6 @@
 Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wiener-Khinchin relation.
 
 ## EQUIPMENTS NEEDED
-
 •	Computer with i3 Processor
 •	SCI LAB
 
